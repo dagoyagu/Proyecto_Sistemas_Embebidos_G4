@@ -126,7 +126,8 @@ Fig. 6 Conexión con Alexa
 
 ## __14. VIDEO DE FUNCIONAMIENTO__
 
-A continuacion, se brinda el siguiente enlace el cual contiene el video del funcionamiento del dispositivo [Video aquí] (https://youtu.be/d09LrVB25DI).
+A continuacion, se brinda el siguiente enlace el cual contiene el video del funcionamiento del dispositivo [Video aquí](https://youtu.be/d09LrVB25DI).
+
 
 
 
