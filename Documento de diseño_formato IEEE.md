@@ -1,6 +1,4 @@
-﻿![Texto
-
-El contenido generado por IA puede ser incorrecto.](Aspose.Words.4dbd028f-9a64-4345-82f1-2d4b86b293e1.001.png)Dispensador Automático de Alimento para Mascotas con Control Remoto vía Wi-Fi y Alexa
+Dispensador Automático de Alimento para Mascotas con Control Remoto vía Wi-Fi y Alexa
 
 David Gonzalez Yaguachi – <dagoyagu@espol.edu.ec> 
 
@@ -117,3 +115,4 @@ Fig. 5 Proyecto culminado
 ![](Aspose.Words.4dbd028f-9a64-4345-82f1-2d4b86b293e1.007.jpeg)
 
 Fig. 6 Conexión con Alexa
+
