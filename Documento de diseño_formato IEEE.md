@@ -1,11 +1,11 @@
-__Dispensador Automático de Alimento para Mascotas con Control Remoto vía Wi-Fi y Alexa__
+#__Dispensador Automático de Alimento para Mascotas con Control Remoto vía Wi-Fi y Alexa__
 
 David Gonzalez Yaguachi – <dagoyagu@espol.edu.ec> 
 
 Abraham Jaramillo Quinde – <abdajara@espol.edu.ec> 
 
 
-__1. INTRODUCCIÓN__
+##__1. INTRODUCCIÓN__
 
 La creciente carga laboral y el estilo de vida acelerado dificultan el cuidado constante de las mascotas. Como solución, se propone el diseño de un dispensador de alimento automatizado, configurable en porciones y horarios, con conectividad Wi-Fi y control remoto mediante asistentes virtuales como Alexa. El sistema busca garantizar el bienestar de las mascotas en ausencia de sus dueños. 
 
@@ -123,6 +123,7 @@ Fig. 5 Proyecto culminado
 ![](Aspose.Words.4dbd028f-9a64-4345-82f1-2d4b86b293e1.007.jpeg)
 
 Fig. 6 Conexión con Alexa
+
 
 
 
